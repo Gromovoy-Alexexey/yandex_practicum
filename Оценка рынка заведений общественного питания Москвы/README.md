@@ -35,6 +35,6 @@
 - numpy
 - scipy
 - math
-- plotly.express
+- plotly
 - seaborn
 - folium
